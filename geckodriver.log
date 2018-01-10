@@ -1,0 +1,28 @@
+1515429090075	geckodriver	INFO	Listening on 127.0.0.1:36153
+1515429091130	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1515429092523	Marionette	INFO	Enabled via --marionette
+1515429097911	Marionette	INFO	Listening on port 40927
+1515429098072	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 410: Error: OS.File has been shut down. Rejecting post to stat
+1515429151446	geckodriver	INFO	Listening on 127.0.0.1:55395
+1515429152499	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1515429153294	Marionette	INFO	Enabled via --marionette
+1515429156707	Marionette	INFO	Listening on port 41815
+1515429156785	Marionette	DEBUG	Register listener.js for window 2147483649
+1515429208942	geckodriver	INFO	Listening on 127.0.0.1:33949
+1515429210000	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1515429210830	Marionette	INFO	Enabled via --marionette
+1515429214329	Marionette	INFO	Listening on port 40257
+1515429214686	Marionette	DEBUG	Register listener.js for window 2147483649
+1515429417820	geckodriver	INFO	Listening on 127.0.0.1:59113
+1515429418873	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1515429419674	Marionette	INFO	Enabled via --marionette
+1515429423080	Marionette	INFO	Listening on port 36507
+1515429423175	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515430547803	geckodriver	INFO	Listening on 127.0.0.1:59759
+1515430548856	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1515430549673	Marionette	INFO	Enabled via --marionette
+1515430553243	Marionette	INFO	Listening on port 40731
+1515430553356	Marionette	DEBUG	Register listener.js for window 2147483649
